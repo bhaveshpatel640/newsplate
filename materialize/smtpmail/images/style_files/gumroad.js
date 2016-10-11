@@ -1,0 +1,1 @@
+(function(d,t){t=d.createElement('script');t.setAttribute('src','https://static-1.gumroad.com/res/gumroad/assets/gumroad-overlay-a90134d7a8933c45dadc6120ef3a8799.js');d.getElementsByTagName('head')[0].appendChild(t)})(document)
