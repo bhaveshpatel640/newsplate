@@ -1,9 +1,9 @@
 Hostname		: localhost
 Username		: root
 Password		: "" (blank)
-Database name	: newsplate
+Database name	  : newsplate
 Email Id		: username@gmail.com
 Server used		: WAMP
 Path			: C:\wamp\www\WT project new\materialize
 Hostpath		: localhost\WT project new\materialize
-Browser Used 	: Chrome (Windows)
+Browser Used 	  : Chrome (Windows)
