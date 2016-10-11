@@ -2,7 +2,7 @@
 require 'init.php';
 date_default_timezone_set('Asia/Calcutta');
 
-if ($email=='newsplate2015@gmail.com'&&$password=='wtproject') {
+if ($email=='username@gmail.com'&&$password=='password') {
 }else {
 	header("Location: login.php");
 }
