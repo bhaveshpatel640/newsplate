@@ -14,8 +14,8 @@ if(isset($_POST["send"])){
 	$mail->SMTPAuth = true; //Whether to use SMTP authentication
 	$mail->Username = SMTP_UNAME; //Username for SMTP authentication any valid email created in your domain
 	$mail->Password = SMTP_PWORD; //Password for SMTP authentication
-	$mail->AddReplyTo("suyashthakare4@gmail.com", "Suyash Thakare"); //reply-to address
-	$mail->SetFrom("bhaveshpatel640@gmail.com", "NewsPlate"); //From address of the mail
+	$mail->AddReplyTo("username@gmail.com", "username"); //reply-to address
+	$mail->SetFrom("username@gmail.com", "NewsPlate"); //From address of the mail
 	// put your while loop here like below,
 	$mail->Subject = "NewsPlate Latest News"; //Subject od your mail
 	$mail->AddAddress($email, "Bhavesh Patel"); //To address who will receive this email
